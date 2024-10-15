@@ -7,6 +7,7 @@ public class BNCCSesi0 {
         char c = 'a'; // Character, store a single character
         float f = 10.43f; // Float, store a floating number
         double d = 3.14; // Double, store a floating with better precision
+        boolean b = true; // store only true or false
         String s = "Hello World";
         
         System.out.println("This is an integer: " + x);
