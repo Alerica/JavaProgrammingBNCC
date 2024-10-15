@@ -1,0 +1,27 @@
+Here are common shortcut used in netBeans
+
+Basic shortcut		
+Ctrl + c		: Copy
+Ctrl + v		: Paste
+Ctrl + z		: Undo
+Ctrl + y		: Re-do
+Ctrl + E		: Delete Line
+
+
+Other Shortcut
+Alt + scroll_up		      : Zoom in
+Alt + scroll_down	      : Zoom out
+Ctrl + Space 		        : Autocomplete
+Ctrl + R		            : Rename the selected class, method, or variable
+Alt + scroll_up	      	: Zoom in
+Alt + scroll_down      	: Zoom out
+Ctrl + Shfit + up/down	: Duplicate up/down
+Ctrl + F		            : Find
+Ctrl + H		            : Replace
+
+psvm + tab		: create public static void main
+sout + tab		: create System.out.println
+if + tab		  : if shortcut
+fori          : for shortcut
+dowhile       : do while shortcut
+
