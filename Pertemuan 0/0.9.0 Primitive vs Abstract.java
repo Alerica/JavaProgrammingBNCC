@@ -7,6 +7,7 @@ public class BNCCSesi0 {
         Abstract data type are object variant of the primitive data type
         Abstract data type are usually start with uppercase
         */
+        // This also usally refered as wrapper class
         Integer x; // int
         Double d;  // double
         Boolean b; // boolean
