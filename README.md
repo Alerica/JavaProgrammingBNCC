@@ -18,5 +18,4 @@ public class Bncc {
 ```
 
 ## Info
-Praetorian : Alexander Ricky Budianto
 Feel free to ask me about anything regarding java
