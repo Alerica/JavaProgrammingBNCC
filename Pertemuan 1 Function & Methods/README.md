@@ -53,5 +53,3 @@ int result = BNCCsesi1(4, 5); // No object needed
 BNCCSesi1 object1 = new BNCCSesi1();
 int result = object1.Product(4, 5);
 ```
-
-Recording Link : https://bit.ly/48vfCDL
