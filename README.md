@@ -11,7 +11,7 @@ package bncc;
 public class Bncc {
 
     public static void main(String[] args) {
-        System.out.println("Viva BNCC");
+        System.out.println("VIVA BNCC");
     }
     
 }
