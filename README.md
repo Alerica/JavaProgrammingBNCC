@@ -18,4 +18,5 @@ public class Bncc {
 ```
 
 ## Info
-Feel free to ask me about anything regarding java
+Feel free to ask me about anything regarding java. 
+If you fing someething is wrong or confusing, please tell me, Thank you.
