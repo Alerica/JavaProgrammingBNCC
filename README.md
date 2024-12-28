@@ -18,5 +18,6 @@ public class Bncc {
 ```
 
 ## Info
+There are 15 course in total, each course last about 90 minutes
 Feel free to ask me about anything regarding java. 
 If you fing someething is wrong or confusing, please tell me, Thank you.
