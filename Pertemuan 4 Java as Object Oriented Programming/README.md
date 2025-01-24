@@ -45,7 +45,7 @@ Object-Oriented Programming (OOP) is a programming paradigm based on the concept
    Inheritance allows a class (known as a **subclass** or **derived class**) to inherit the properties and behaviors of another class (known as a **superclass** or **base class**). This promotes code reuse and establishes a hierarchy between classes.
 
 4. **Polymorphism**  
-   Polymorphism allows objects to take on multiple forms. It occurs when a method in a subclass has the same name as a method in its superclass but provides a different implementation. There are two types:
+   Polymorphism allows objects to take on multiple forms. It occurs when a method in a subclass has the same name as a method in its superclass but provides a different implementation. 
 
 5. **Abstraction**  
    Abstraction is the process of hiding complex implementation details and exposing only the necessary features of an object. It helps reduce complexity and allows users to interact with objects without needing to know how they work internally.
