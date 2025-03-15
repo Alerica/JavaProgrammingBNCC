@@ -22,6 +22,6 @@ There are 14 course in total, each course last about 90 minutes
 Video are exclusive to BNCC member
 
 ## Praetorian
-Feel free to ask me about anything regarding java, I don`t bite. 
-If you fing someething is wrong or confusing, please tell me, Thank you.
+#### Feel free to ask me about anything regarding java, I don`t bite. 
+#### If you fing someething is wrong or confusing, please tell me, Thank you.
 
